@@ -1,2 +1,2 @@
 # Powershell
-A pllace for my PowerShell Scripts 
+A place for my PowerShell Scripts 
